@@ -1,13 +1,29 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  margin: 0px 0px 0px 0px;
+  padding: 0 0 0 0;
+  box-sizing: border-box;
+  background-color: black;
+  
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.container
+{
+  width: 80%;
+  background-image: url('./business-women-signature-document.jpg');
+  height: 550px;
+  background-size: 1250px 550px;
+  max-width: 100%;
+  max-height: 100%;
+  margin: -16px 150px 0px 150px ;
 }
+
+.heading2
+{
+color: rgb(97, 72, 126);
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+
+
+
